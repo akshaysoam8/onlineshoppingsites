@@ -1,0 +1,16 @@
+{
+  "name": "freelancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akshaysoam",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^9.8.0",
+    "longjohn": "^0.2.11",
+    "request": "^2.75.0"
+  }
+}
